@@ -1,0 +1,6 @@
+pedestrian_detection
+PennFudanPed/
+.ipynb_cj=heckpoints/
+__pycache__/
+faster_rcnn.pt
+customized_SVM.pkl
